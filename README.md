@@ -23,16 +23,16 @@ Fios diversos…. Qualquer fiozinho de eletrònica serve… pesquisar por “fio
 
 Em abril/2022 eu gastei em torno de R$ 130 nesses itens, sem contar o frete.
 
-    • Comece com ligação elétrica.
-        ◦ - Faça o barramento, ligando todos os pinos “1” ao VCC e todos os pinos “3” ao GND
-        ◦ - Ligar cada um dos pinos “3” dos potenciômetros nas entradas A0, A1, A2, A3, 4, 6 e 8
+     Comece com ligação elétrica.
+        - Faça o barramento, ligando todos os pinos “1” ao VCC e todos os pinos “3” ao GND
+        - Ligar cada um dos pinos “3” dos potenciômetros nas entradas A0, A1, A2, A3, 4, 6 e 8
           IMPORTANTE: Para ocupar menos espaço e simplificar o desenho do esquema, utilizei somente imagens de potenciômetros rotativos. 
           Os potenciômetros deslizantes têm exatamente os mesmos pinos 1, 2 e 3.
 
 Com a ligação elétrica pronta, baixe a IDE do arduino em https://www.arduino.cc/en/software
-Conecte o Micro Pro na USB, abra este arquivo Throttle_Quadrant_-_7_Axis.ino  pela IDE do Arduino
-Vá em Ferramentas > Placa > Arduino AVR Boards > selecione “Arduino Micro”
-Vá em Sketch > Carregar
+- Conecte o Micro Pro na USB, abra este arquivo Throttle_Quadrant_-_7_Axis.ino  pela IDE do Arduino
+- Vá em Ferramentas > Placa > Arduino AVR Boards > selecione “Arduino Micro”
+- Vá em Sketch > Carregar
 Ao abrir o painel de conbtrole > Exibir impressoras e dispositívos, já deverá ver o Micro pró conectado como controle.
 Faça a calibração para ver se está funcionando.
 
