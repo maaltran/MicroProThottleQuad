@@ -25,7 +25,7 @@ Em abril/2022 eu gastei em torno de R$ 130 nesses itens, sem contar o frete.
 
 Comece com ligação elétrica.
 - Faça o barramento, ligando todos os pinos “1” ao VCC e todos os pinos “3” ao GND
-- Ligar cada um dos pinos “3” dos potenciômetros nas entradas A0, A1, A2, A3, 4, 6 e 8
+- Ligar cada um dos pinos “2” dos potenciômetros nas entradas A0, A1, A2, A3, 4, 6 e 8
     IMPORTANTE: Para ocupar menos espaço e simplificar o desenho do esquema, utilizei somente imagens de potenciômetros rotativos. 
      Os potenciômetros deslizantes têm exatamente os mesmos pinos 1, 2 e 3.
      
