@@ -35,6 +35,7 @@ Com a ligação elétrica pronta, baixe a IDE do arduino em https://www.arduino.
 - Importe a biblioteca Joystick em “Sketch > Incluir Biblioteca > Adicionar Biblioteca ZIP
 - Vá em Ferramentas > Placa > Arduino AVR Boards > selecione “Arduino Micro”
 - Vá em Sketch > Carregar
+
 Ao abrir o painel de conbtrole > Exibir impressoras e dispositívos, já deverá ver o Micro pró conectado como controle.
 Faça a calibração para ver se está funcionando.
 
