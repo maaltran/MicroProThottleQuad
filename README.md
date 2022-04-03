@@ -31,6 +31,8 @@ Comece com ligação elétrica.
      
 Com a ligação elétrica pronta, baixe a IDE do arduino em https://www.arduino.cc/en/software
 - Conecte o Micro Pro na USB, abra este arquivo Throttle_Quadrant_-_7_Axis.ino  pela IDE do Arduino
+- Baixe a biblioteca “Joystick” zipada em https://github.com/MHeironimus/ArduinoJoystickLibrary
+- Importe a biblioteca Joystick em “Sketch > Incluir Biblioteca > Adicionar Biblioteca ZIP
 - Vá em Ferramentas > Placa > Arduino AVR Boards > selecione “Arduino Micro”
 - Vá em Sketch > Carregar
 Ao abrir o painel de conbtrole > Exibir impressoras e dispositívos, já deverá ver o Micro pró conectado como controle.
